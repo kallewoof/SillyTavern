@@ -12,7 +12,7 @@
     "activation_regex": "",
     "skip_examples": false,
     "output_suffix": "<|end_of_text|>\n",
-    "input_suffix": "",
+    "input_suffix": "\n",
     "system_sequence": "<|system|>\n",
     "system_suffix": "",
     "user_alignment_message": "",
