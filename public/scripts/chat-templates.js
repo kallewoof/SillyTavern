@@ -90,6 +90,14 @@ const hash_derivations = {
     'aab20feb9bc6881f941ea649356130ffbc4943b3c2577c0991e1fba90de5a0fc':
         'Moonshot AI'
     ,
+
+    // Qwen 3 30B-A3B-Instruct 2507
+    '40c21f34cf67d8c760ef72f8ad3ae5afad514299d4b06e91dd9a8d705af7b541':
+    {
+        'context': 'ChatML',
+        'instruct': 'Qwen3-2507',
+    }
+    ,
 };
 
 const substr_derivations = [

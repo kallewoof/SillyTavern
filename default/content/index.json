@@ -838,5 +838,9 @@
     {
         "filename": "presets/context/Moonshot AI.json",
         "type": "context"
+    },
+    {
+        "filename": "presets/instruct/Qwen3-2507.json",
+        "type": "instruct"
     }
 ]
